@@ -5,7 +5,7 @@ By alphabetical order
 
 
 - Eric Jang's blog http://blog.evjang.com/
-  - Blog stype: 
-  - Representative post:
+  - Topics and style: 
+  - Representative post(s):
   - Author bio:
   
