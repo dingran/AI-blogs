@@ -13,13 +13,7 @@ Please contribute, open a [pull request](https://github.com/dingran/ai-blogs/pul
 
 By alphabetical order
 
+- Chris J. Maddison's blog https://cmaddis.github.io/
 - Edwin Chen's blog http://blog.echen.me/
-  - Topics and style: 
-  - Representative post(s):
-  - Author bio:
-
 - Eric Jang's blog http://blog.evjang.com/
-  - Topics and style: 
-  - Representative post(s):
-  - Author bio:
 
