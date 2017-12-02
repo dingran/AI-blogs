@@ -1,61 +1,13 @@
 # AI blogs list
-A list of high-quality blogs on machine learning, artificial intelligence and deep learning topics
+A list of high-quality blogs on machine learning, artificial intelligence and deep learning topics that I have learned something from.
 
 In alphabetical order
 
-- Chris J. Maddison's blog https://cmaddis.github.io/
-- Edwin Chen's blog http://blog.echen.me/
-- Eric Jang's blog http://blog.evjang.com/
+Author | Link | Highlights / Commments
+ --- | --- | --- 
+Andrej Karpathy | http://karpathy.github.io/ | [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+Chris J. Maddison | https://cmaddis.github.io/ | [Gumble machinery](https://cmaddis.github.io/gumbel-machinery)
+Edwin Chen | http://blog.echen.me/ | [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
+Eric Jang | http://blog.evjang.com/ | [Expressivity, Trainability, and Generalization in Machine Learning](http://blog.evjang.com/2017/11/exp-train-gen.html)
 
-
-
-Blogrolls and backlog to go through
-
-http://www.the100.ci/blog-roll/
-
-http://andrewgelman.com/blogroll/
-
-https://hips.seas.harvard.edu/blog/
-
-Andrew Gelman
-
-Computational Complexity
-
-Daniel Lemire
-
-Hal Daumé III
-
-Harry Lewis
-
-Inducto Ex Machina
-
-Larry Wasserman
-
-Learning in Vision
-
-Machine Learning (Theory)
-
-Mathematics and Computation
-
-Michael Mitzenmacher
-
-My Slice of Pizza
-
-Nuit Blanche
-
-Radford Neal
-
-Scott Aaronson
-
-Talking Brains
-
-Terry Tao
-
-The Geomblog
-
-This Number Crunching Life
-
-Timothy Gowers
-
-xcorr
 
