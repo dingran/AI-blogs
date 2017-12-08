@@ -12,6 +12,5 @@ Edwin Chen | http://blog.echen.me/
 Eric Jang | http://blog.evjang.com/
 Jaan Altosaar | https://jaan.io/
 Shakir Mohamed | http://blog.shakirm.com/
-Vicent Herrmann | https://vincentherrmann.github.io/
 
 
